@@ -5,7 +5,7 @@ pianobar is a free/open-source, console-based client for pandora
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/pianobar/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/pianobar/raw/main/install.sh)"
 ```
 
 Manual install:
